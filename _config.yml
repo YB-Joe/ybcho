@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "YongBaekCho(Joe)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/css/me.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Innovator"
   location         : "Tempe, AZ"
   email            :
