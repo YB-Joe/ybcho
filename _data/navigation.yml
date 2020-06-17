@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Blog(블로그 방문하기)"
-    url: https://ybJoe.com/
+  - title: "Who Am I?"
+    url: /Introduce/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
