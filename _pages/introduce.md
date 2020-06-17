@@ -3,7 +3,7 @@ title: "Who Am I?"
 permalink: /introduce/
 toc_sticky: true
 toc_ads : true
-layout: double
+layout: home
 ---
 
 ## YongBaek Cho (Joe)
