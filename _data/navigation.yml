@@ -2,8 +2,8 @@
 main:
   - title: "Blog(블로그 방문하기)"
     url: https://ybJoe.com/
-  # - title: "About"
-  #   url: https:/about/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
