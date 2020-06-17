@@ -1,6 +1,6 @@
 ---
 title: "Who Am I?"
-permalink: /Introduce/
+permalink: /introduce/
 toc_sticky: true
 toc_ads : true
 layout: single
