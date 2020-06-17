@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Who Am I?"
-    url: /Introduce/
+    url: /introduce/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
