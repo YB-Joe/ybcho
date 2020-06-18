@@ -48,8 +48,8 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 
 ## Technical Skills
 Advanced: Python, Keras, TensorFlow, R, Javascript, MySQL
-Moderate: Pytorch, MongoDB, C++
-Novice: C 
+<br>Moderate: Pytorch, MongoDB, C++
+<br>Novice: C 
 
 ## Languages
 Fluent in **English**, Native in **Korean** and Basic in **Japanese**
