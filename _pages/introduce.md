@@ -24,3 +24,8 @@ Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW
 ## My goal with AI
 
 MY goal is to enhance the symbiotic relationship between human and machine & Productivity.I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
+
+## Education
+
+University of Arizona
+Bachelor Science in Information Science and Technology(Concentration on Machine Learning & Data Science)     Spring 2013 - Fall 2018
