@@ -28,7 +28,6 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 ## Education
 
 ![asu logo](https://user-images.githubusercontent.com/43649503/84981298-2ba5e500-b16f-11ea-9133-b16e5c41ac48.png)
-(https://www.arizona.edu)
 
 <div style="text-align: left"><strong>Arizona State University</strong></div>
 <div style="text-align: left"> M.S. in Robotics and Autonomous System(<em>Artificial Intelligence</em>), Spring 2020 - Fall 2021(Expected)</div> 
