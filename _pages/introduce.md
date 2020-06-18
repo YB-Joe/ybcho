@@ -29,3 +29,4 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 
 University of Arizona
 Bachelor Science in Information Science and Technology(Concentration on Machine Learning & Data Science)     Spring 2013 - Fall 2018
+
