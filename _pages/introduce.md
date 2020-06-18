@@ -36,4 +36,7 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 <div style="text-align: left"><strong>University of Arizona</strong></div>
 <div style="text-align: left"> B.S. in Information Science and Technology(<em>Concentration on Machine Learning & Data Science</em>), Spring 2013 - Fall 2018</div> 
 
+### Certification
 
+![coursera](https://user-images.githubusercontent.com/43649503/84982323-6b6dcc00-b171-11ea-8fb3-b4085844effd.png)
+<div style="text-align: left"><strong>Deep Learning Specialization</strong></div>
