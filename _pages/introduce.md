@@ -28,6 +28,6 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 ## Education
 
 ![UAlogo](https://user-images.githubusercontent.com/43649503/84980195-5e9aa980-b16c-11ea-9f47-894fbaa9cc22.png)
-University of Arizona
+University of Arizona<br>
 Bachelor Science in Information Science and Technology(Concentration on Machine Learning & Data Science)     Spring 2013 - Fall 2018
 
