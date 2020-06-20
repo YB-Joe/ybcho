@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/css/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be Innovative and Creative"
   location         : "Tempe, AZ"
-  email            :
+  email            : "ybcho1087@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
