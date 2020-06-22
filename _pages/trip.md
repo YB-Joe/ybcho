@@ -1,5 +1,5 @@
 ---
-title: "Trip"
+title: "Trips"
 permalink: /Trip/
 toc_sticky: true
 toc_ads : true
