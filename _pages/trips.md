@@ -1,6 +1,6 @@
 ---
 title: "2020 Trips"
 layout: categories
-permalink: /Trip/
+permalink: /Trips/
 author_profile: true
 ---
