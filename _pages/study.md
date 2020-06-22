@@ -1,13 +1,13 @@
 ---
-title:  "What is AI?"
-excerpt: "Artificial Intelligence : The Science of Making Machines Intelligent"
-
-categories:
-  - Study
-tags:
-  - AI
-last_modified_at: 2020-06-16T08:06:00-05:00
+title: "What is AI?"
+layout: categories
+permalink: /Study/
+author_profile: true
 ---
+
+
+
+
 
 ## What is AI?
 
