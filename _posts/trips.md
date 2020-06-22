@@ -1,12 +1,14 @@
 ---
-title:  "Trips"
-excerpt: "여행"
+title:  "서시 - 윤동주"
+excerpt: "윤동주 시인의 작품 모음 - 서시"
 
 categories:
-  - Trips
+  - 여행
 tags:
-  - Trips
-last_modified_at: 2020-06-16T08:06:00-05:00
+  - 서시
+  - 윤동주
+  - 시
+last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 
