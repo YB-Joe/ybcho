@@ -1,7 +1,7 @@
 ---
 title: "What is AI?"
 layout: categories
-permalink: /ai/
+permalink: /Study/
 author_profile: true
 ---
 
