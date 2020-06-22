@@ -3,7 +3,7 @@ title: "Trips"
 permalink: /Trip/
 toc_sticky: true
 toc_ads : true
-layout: single
+layout: category
 ---
 
 ## 여행
