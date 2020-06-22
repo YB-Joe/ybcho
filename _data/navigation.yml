@@ -8,5 +8,5 @@ main:
     url: /CV/
   - title: "Trips"
     url: /Trips/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Study"
+    url: /Study/
