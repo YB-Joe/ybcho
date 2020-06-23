@@ -1,6 +1,6 @@
 ---
 title: "All Posts"
-permalink: /All posts/
+permalink: /Allposts/
 layout: category
 author_profile: true
 taxonomy: 여행(Trip)
