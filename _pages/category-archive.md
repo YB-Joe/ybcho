@@ -1,7 +1,7 @@
 ---
 title: "All Posts"
 layout: categories
-permalink: /All Posts/여행(Trip)/
+permalink: /All Posts/
 author_profile: true
 ---
 
