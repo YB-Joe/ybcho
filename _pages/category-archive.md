@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /All Posts/Trip
+permalink: /All Posts/
 author_profile: true
 ---
