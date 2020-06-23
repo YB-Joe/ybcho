@@ -1,6 +1,6 @@
 ---
 title: "All Posts"
-permalink: /All Posts/Trip/
+permalink: /All Posts/
 layout: category
 author_profile: true
 taxonomy: Trip
