@@ -1,7 +1,7 @@
 ---
 title: "All Posts"
 layout: categories
-permalink: /categories/
+permalink: /Allposts/
 author_profile: true
 ---
 
