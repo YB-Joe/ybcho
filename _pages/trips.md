@@ -2,6 +2,10 @@
 title: "2020 Trips"
 layout: categories
 permalink: /Trips/
+categories:
+  - Life
+tags:
+  - life
 author_profile: true
 ---
 
