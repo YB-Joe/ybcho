@@ -1,5 +1,5 @@
 ---
-title: "2020 Trips"
+title: "Way Back Home"
 permalink: /Trips/여행/
 layout: category
 author_profile: true
