@@ -3,8 +3,8 @@ title: "Way Back Home"
 permalink: /All Posts/
 layout: category
 author_profile: true
-taxonomy: allposts
+taxonomy: 여행
 ---
 
-여행 기록입니다
+모든 글입니다.
 
