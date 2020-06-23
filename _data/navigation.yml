@@ -6,8 +6,7 @@ main:
     url: /about/
   - title: "CV"
     url: /CV/
-  - title: "Trip"
-    url: /All Posts/Trip/
+  
   - title: "All Posts"
     url: /All Posts/
  
