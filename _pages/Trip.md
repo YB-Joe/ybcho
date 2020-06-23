@@ -1,6 +1,6 @@
 ---
  title: "Trip History"
- permalink: /categories/Trip/
+ permalink: /All Posts/
  layout: category
  author_profile: true
  taxonomy: Trip
