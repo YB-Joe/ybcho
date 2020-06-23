@@ -1,5 +1,5 @@
 ---
-title: "Way Back Home"
+title: "All Posts"
 permalink: /All Posts/
 layout: category
 author_profile: true
