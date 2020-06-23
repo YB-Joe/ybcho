@@ -1,6 +1,6 @@
 ---
 title: "All Posts"
-layout: archive
+layout: category
 permalink: /All Posts/
 author_profile: true
 ---
