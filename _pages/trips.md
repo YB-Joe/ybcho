@@ -1,6 +1,6 @@
 ---
 title: "Way Back Home"
-permalink: /Trips/여행/
+permalink: /All Posts/여행/
 layout: category
 author_profile: true
 taxonomy: 여행
