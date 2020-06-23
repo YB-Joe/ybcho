@@ -1,9 +1,9 @@
 ---
-title: "윤동주 작품집"
+title: "2020 Trips"
 permalink: /Trips/2020/
 layout: category
 author_profile: true
-taxonomy: 윤동주
+taxonomy: 여행
 ---
 
-좋아하는 윤동주 시인의 작품 모음입니다.
+여행 기록
