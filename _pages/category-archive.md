@@ -1,12 +1,7 @@
 ---
-title: "여행 기록"
+title: "All Posts"
 layout: categories
-permalink: /Trips/
+permalink: /All posts/
 author_profile: true
 ---
----
-title: "공부"
-layout: categories
-permalink: /Study/
-author_profile: true
----
+
