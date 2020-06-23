@@ -1,7 +1,9 @@
 ---
-title: "All Posts"
-permalink: /All Posts/
-toc_sticky: true
-toc_ads : true
-layout: single
+title: "여행"
+permalink: /categories/Trip/
+layout: category
+author_profile: true
+taxonomy: Trip
 ---
+
+여행입니다.
