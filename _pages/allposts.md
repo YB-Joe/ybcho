@@ -1,9 +1,9 @@
 ---
 title: "All Posts"
-permalink: /All Posts/
+permalink: /All Posts/여행(Trip)
 layout: category
 author_profile: true
-taxonomy: Trip
+taxonomy: 여행(Trip)
 ---
 
 모든 글입니다.
