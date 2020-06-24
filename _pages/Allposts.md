@@ -1,6 +1,6 @@
 ---
 title: "여행"
-permalink: /categories/
+permalink: /categories/trip
 layout: category
 author_profile: true
 
