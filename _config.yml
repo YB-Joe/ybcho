@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "YongBaekCho(Joe)"
   avatar           : "/assets/css/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Be Innovative and Creative       Email: ycho56 [At] asu [Dot] edu"
+  bio              : "Be Innovative and Creative"
   location         : "Tempe, AZ"
-  email            : "ybcho1087@gmail.com"
+  ycho56 [At] asu [Dot] edu            : "ycho56@asu.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
