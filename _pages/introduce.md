@@ -5,6 +5,10 @@ toc_sticky: true
 toc_ads : true
 layout: single
 ---
+## Before I start
+
+This is my simple version of CV/Resume. If you want to see my CV/Resume with details, please contact me via email.
+You can receive it which written by Latex via email😃 
 
 ## YongBaek Cho (Joe)
 
@@ -22,7 +26,7 @@ My Research Interest is to design novel Deep Learning Algorithms that interact i
 
 ## My goal with AI
 
-MY goal is to enhance the symbiotic relationship between human and machine & Productivity.I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
+MY goal is to enhance the symbiotic relationship between human and machine.I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
 
 ## Education
 
@@ -48,6 +52,23 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 <div style="text-align: left"><strong>Deep Learning Specialization</strong></div>
 
 <div style="text-align: left"><strong>Machine Learning</strong></div>
+
+## WORK EXPEREIENCE
+![Screen Shot 2020-06-26 at 2 17 38 AM](https://user-images.githubusercontent.com/43649503/85767750-4a9a0d80-b753-11ea-91f0-889c4f4c1dff.png){: width="80%" height="80%"}
+
+<div style="text-align: left">SK Networks - Seoul, South Korea</div>
+<div style="text-align: left">Internship</div> 
+<div style="text-align: left">August 2019 - November 2019</div> 
+
+## EXTRA-CURRICULAR ACTIVITIES
+
+<div style="text-align: left">Logistical Support Command, ROKA - Incheon, South Korea</div>
+<div style="text-align: left">Medication Administration Clerk</div> 
+<div style="text-align: left">August 2019 - November 2019</div> 
+
+
+<div style="text-align: left">Center for English as a Second Language, University of Arizona - Tucson,AZ</div>
+<div style="text-align: left">Volunteer </div> 
 
 
 ## Technical Skills
