@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Who Am I?"
+  - title: "💁 Who Am I?"
     url: /introduce/
-  - title: "About"
+  - title: "🔍 About"
     url: /about/
   - title: "CV"
     url: /CV/
   
-  - title: "Categories"
+  - title: "💭 Categories"
     url: /categories/
  
