@@ -33,6 +33,7 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 [![UAlogo](https://user-images.githubusercontent.com/43649503/84980195-5e9aa980-b16c-11ea-9f47-894fbaa9cc22.png)](https://www.arizona.edu)
 <div style="text-align: left"><strong>University of Arizona</strong></div>
 <div style="text-align: left"> B.S. in Information Science and Technology(<em>Concentration on Machine Learning & Data Science</em>), Spring 2013 - Fall 2018</div>
+<div style="text-align: left">Minor: Business Administraion</div>
 <div style="text-align: left">Honors and Awards: Dean's List</div>
 
 <br>Courses: Principles and Practice of Data Science, Dealing with Data, Data Structures, Statistical Foundations of the Information, Foundation of Information and Inference, Web Programming, Geographic Information Systems for Natural and Social Sciences, Computing and the Arts(Data Visualization)
