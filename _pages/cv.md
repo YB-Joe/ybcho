@@ -39,13 +39,12 @@ Email: ycho56@asu.edu
 ## WORK EXPEREIENCE
 ![Screen Shot 2020-06-26 at 2 17 38 AM](https://user-images.githubusercontent.com/43649503/85767750-4a9a0d80-b753-11ea-91f0-889c4f4c1dff.png){: width="80%" height="80%"}
 
-<div style="text-align: left">SK Networks                Seoul, South Korea</div>
-
+<div style="text-align: left">SK Networks - Seoul, South Korea</div>
 <div style="text-align: left">Internship</div> 
 <div style="text-align: left">August 2019 - November 2019</div> 
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
-<div style="text-align: left">Logistical Support Command, ROKA           Incheon, South Korea</div>
+<div style="text-align: left">Logistical Support Command, ROKA - Incheon, South Korea</div>
 <div style="text-align: left">Medication Administration Clerk</div> 
 <div style="text-align: left">August 2019 - November 2019</div> 
