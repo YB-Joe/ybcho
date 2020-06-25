@@ -16,13 +16,6 @@ Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW
 
 My Research Interest is to design novel Deep Learning Algorithms that interact in various ways with Computer vision. 
 
-## What is AI?
-
-1. Think like people
-2. Act like people
-3. Think rationally
-4. Act rationally 
-
 ## My goal with AI
 
 MY goal is to enhance the symbiotic relationship between human and machine & Productivity.I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
