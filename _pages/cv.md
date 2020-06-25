@@ -18,4 +18,9 @@ Blog : https://YongBaekCho.github.io
 
 ## INTERESTS
 
-Computer Vision, Machine/Deep Learning, Reinforcement learning, Generative mod- els, Robotics
+<div style="text-align: left"><Computer Vision, Machine/Deep Learning, Reinforcement learning, Generative mod- els, Robotics</div>
+  
+## EDUCATION
+
+
+
