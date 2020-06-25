@@ -43,9 +43,9 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 <div style="text-align: left"><strong>Deep Learning Specialization</strong></div>
 
 ## Technical Skills
-Advanced: Python, Keras, TensorFlow, R, Javascript, MySQL
-<br>Moderate: Pytorch, MongoDB, C++
-<br>Novice: C 
+Programming Languages: Python, R, Java, R, MYSQL, SQLITE3, MongoDB, JavaScript
+<br>ML & DL Frameworks: Keras, Tensorflow, PyTorch, Pandas, matplotlib, Tableau, scikit-learn, OpenCV, NumPy, SciPy.
+
 
 ## Languages
 Fluent in **English**, Native in **Korean** and Basic in **Japanese**
