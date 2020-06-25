@@ -41,10 +41,10 @@ Email: ycho56@asu.edu
 
 <div style="text-align: left">SK Networks</div>
 
-<div style="text-align: left">Internship</div> <div style="text-align: right">Seoul, South Korea</div> 
-<div style="text-align: right">August 2019 - November 2019</div> 
+<div style="text-align: left">Internship             Seoul, South Korea</div> 
+<div style="text-align: left">August 2019 - November 2019</div> 
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
-<div style="text-align: left">Logistical Suppoer Command, ROKA</div> <div style="text-align: right">Incheon, South Korea</div> 
-<div style="text-align: right">August 2019 - November 2019</div> 
+<div style="text-align: left">Logistical Support Command, ROKA           Incheon, South Korea</div> 
+<div style="text-align: left">August 2019 - November 2019</div> 
