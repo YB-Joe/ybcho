@@ -37,7 +37,14 @@ Email: ycho56@asu.edu
 <div style="text-align: left">Honors and Awards: Dean's List</div>
 
 ## WORK EXPEREIENCE
+![Screen Shot 2020-06-26 at 2 17 38 AM](https://user-images.githubusercontent.com/43649503/85767750-4a9a0d80-b753-11ea-91f0-889c4f4c1dff.png){: width="80%" height="80%"}
 
-SK Networks
+<div style="text-align: left">SK Networks</div>
 
+<div style="text-align: left">Internship</div> <div style="text-align: right">Seoul, South Korea</div> 
+<div style="text-align: right">August 2019 - November 2019</div> 
 
+## EXTRA-CURRICULAR ACTIVITIES
+
+<div style="text-align: left">Logistical Suppoer Command, ROKA</div> <div style="text-align: right">Incheon, South Korea</div> 
+<div style="text-align: right">August 2019 - November 2019</div> 
