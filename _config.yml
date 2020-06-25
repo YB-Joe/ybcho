@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/css/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Be Innovative and Creative            ycho56 [At] asu [Dot] edu"
   location         : "Tempe, AZ"
-  Email.           : "ycho56@asu.edu"
+  email            : "ycho56@asu.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
