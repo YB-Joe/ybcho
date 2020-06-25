@@ -12,7 +12,9 @@ I am a M.S. Student in Robotics and Autonomous System(Artificial Intelligence) a
 
 ## Interests
 
-Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW challenge!
+Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW Challenges!
+
+My Research Interest is to design novel Deep Learning Algorithms that interact in various ways with Computer vision. 
 
 ## What is AI?
 
