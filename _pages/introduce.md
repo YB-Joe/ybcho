@@ -42,6 +42,9 @@ MY goal is to enhance the symbiotic relationship between human and machine & Pro
 ![course](https://user-images.githubusercontent.com/43649503/84982475-c1db0a80-b171-11ea-831a-e87c896e2bbc.png)
 <div style="text-align: left"><strong>Deep Learning Specialization</strong></div>
 
+<div style="text-align: left"><strong>Machine Learning</strong></div>
+
+
 ## Technical Skills
 Programming Languages: Python, R, Java, R, MYSQL, SQLITE3, MongoDB, JavaScript
 <br>ML & DL Frameworks: Keras, Tensorflow, PyTorch, Pandas, matplotlib, Tableau, scikit-learn, OpenCV, NumPy, SciPy.
