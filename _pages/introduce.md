@@ -66,12 +66,12 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
-<div style="text-align: left">Logistical Support Command, ROKA - Incheon, South Korea</div>
+<div style="text-align: left"><strong>Logistical Support Command, ROKA</strong> - Incheon, South Korea</div>
 <div style="text-align: left">Medication Administration Clerk - August 2019 - November 2019</div> 
 
 
 
-<span style="text-align: left">Center for English as a Second Language, University of Arizona - Tucson,AZ</span>
+<span style="text-align: left"><strong>Center for English as a Second Language</strong>, University of Arizona - Tucson,AZ</span>
 <span style="text-align: left">Volunteer</span> 
 
 
