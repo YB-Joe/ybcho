@@ -8,4 +8,4 @@ layout: single
 
 # Text Mining
 
-<div style="text-align: left"> * Used cosine similarity to compare documents.</div>
+* Used cosine similarity to compare documents.{: .text-left }
