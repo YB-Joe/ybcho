@@ -6,6 +6,13 @@ toc_ads : true
 layout: single
 ---
 
+### Decision Tree
+Project link: [[Decision Tree(Car Temperature)]](https://github.com/YongBaekCho/decisiontrees).
+
+* Used GraphViz to test and visualize 3 different decision trees and collected data from me.
+
+
+
 ### U.S. Insurance data(from Kaggle) analysis
 
 Project link: [[US Insurance kaggle data]](https://github.com/YongBaekCho/insurance).
