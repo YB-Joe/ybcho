@@ -6,4 +6,6 @@ toc_ads : true
 layout: single
 ---
 
-## Projects
+# Text Mining
+
+<div style="text-align: left"> - Used cosine similarity to compare documents.</div>
