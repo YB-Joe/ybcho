@@ -8,4 +8,5 @@ layout: single
 
 # Text Mining
 
-* Used cosine similarity to compare documents.{: .text-left }
+* Used cosine similarity to compare documents.
+{: .text-left }
