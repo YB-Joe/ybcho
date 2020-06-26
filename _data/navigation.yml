@@ -4,9 +4,7 @@ main:
     url: /introduce/
   - title: "🔍 About"
     url: /about/
-  - title: "CV"
-    url: /CV/
-  
+   
   - title: "💭 Categories"
     url: /categories/
  
