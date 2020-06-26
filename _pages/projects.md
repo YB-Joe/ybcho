@@ -8,5 +8,5 @@ layout: single
 
 # Text Mining
 
-[Text-mining](https://github.com/YongBaekCho/textmining).
+Project link: [[Text-mining]](https://github.com/YongBaekCho/textmining).
 * Computed cosine similarity along with the bag-of-words approach to measure the similarity between paris of documents
