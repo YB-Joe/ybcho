@@ -71,8 +71,8 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 <div style="text-align: left">August 2019 - November 2019</div> 
 
 
-<div style="text-align: left">Center for English as a Second Language, University of Arizona - Tucson,AZ</div>
-<div style="text-align: left">Volunteer </div> 
+<br><div style="text-align: left">Center for English as a Second Language, University of Arizona - Tucson,AZ</div>
+<br><div style="text-align: left">Volunteer </div> 
 
 
 ## Technical Skills
