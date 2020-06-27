@@ -7,7 +7,7 @@ layout: single
 ---
 ## AI 
 
-# Pacman AI and Logic Wumpus
+### Pacman AI and Logic Wumpus
 
 Project link[[Pacman AI with search altorithms]](https://github.com/YongBaekCho/pacmanAI).
 <br>Project link[[Pacman AI(Multi-Agent)]](https://github.com/YongBaekCho/pacmanAIMultiagents).
