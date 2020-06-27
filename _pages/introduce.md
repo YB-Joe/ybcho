@@ -85,4 +85,21 @@ Programming Languages: Python, R, Java, R, MYSQL, SQLITE3, MongoDB, JavaScript
 ## Languages
 Fluent in **English**, Native in **Korean** and Basic in **Japanese**
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJha7hI7uffDURiSoVvtsiJ_Q&key=AIzaSyB7-Du8H42JpIRj1E3XxGGUG7GbSC6OhiQ" allowfullscreen></iframe>
+## maps
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
+      defer
+    ></script>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script src="./app.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+</html>
