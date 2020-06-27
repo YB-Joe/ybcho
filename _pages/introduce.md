@@ -74,7 +74,7 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 
 
 <span style="text-align: left"><strong>Center for English as a Second Language</strong>, University of Arizona - Tucson,AZ</span>
-<span style="text-align: left">Volunteer</span> 
+<div style="text-align: left">Volunteer</div> 
 
 
 ## Technical Skills
@@ -85,21 +85,4 @@ Programming Languages: Python, R, Java, R, MYSQL, SQLITE3, MongoDB, JavaScript
 ## Languages
 Fluent in **English**, Native in **Korean** and Basic in **Japanese**
 
-## maps
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Simple Map</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
-      defer
-    ></script>
-    <link rel="stylesheet" type="text/css" href="./style.css" />
-    <script src="./app.js"></script>
-  </head>
-  <body>
-    <div id="map"></div>
-  </body>
-</html>
