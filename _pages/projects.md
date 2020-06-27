@@ -24,7 +24,7 @@ Project link[[Pacman AI with search altorithms]](https://github.com/YongBaekCho/
 Project link: [[University management]](https://github.com/YongBaekCho/class-scheduling/tree/master).
 
 * Analyzed U of A class scheduling data and RCM data over 10 years.
-* Identified problems & suggested solutions in school's management to staff and program director who work at registarar offcie.
+* Identified problems & suggested solutions in school's management to staff and program director who work at registarar office.
 
 * (The goal of RCM is to provide an incentives-based transparent budget model for the University of Arizona.)  
 ### Decision Tree
