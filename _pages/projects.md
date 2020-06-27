@@ -10,9 +10,9 @@ layout: single
 # Pacman AI and Logic Wumpus
 
 Project link[[Pacman AI with search altorithms]](https://github.com/YongBaekCho/pacmanAI).
-Project link[[Pacman AI(Multi-Agent)]](https://github.com/YongBaekCho/pacmanAIMultiagents).
-Project link[[Wumpus World(Logic-Agent]](https://github.com/YongBaekCho/logicagent).
-Project link[[Pacman AI(Reinforcement-Learning)]](https://github.com/YongBaekCho/Reinforcement-Learning).
+<br>Project link[[Pacman AI(Multi-Agent)]](https://github.com/YongBaekCho/pacmanAIMultiagents).
+<br>Project link[[Wumpus World(Logic-Agent]](https://github.com/YongBaekCho/logicagent).
+<br>Project link[[Pacman AI(Reinforcement-Learning)]](https://github.com/YongBaekCho/Reinforcement-Learning).
 
 * Implemented search algorithms, multi-agents to solve severalproblems in Pacman domain.
 * Used  Reinforcement  learning(Q-learning)  to  train  Pacman  on  large  complexgrids in the presence of adversaries.
@@ -43,7 +43,7 @@ Project link: [[US Insurance kaggle data]](https://github.com/YongBaekCho/insura
 ### arctic-sea-ice-extent-visualization
 
 Project link: [[Data Visualization for arctic-sea-ice-extent]](https://github.com/YongBaekCho/arctic-sea-ice-extent-visualization).
-Project link: [[Data Visualization for arctic-sea-ice-extent-2]](https://github.com/YongBaekCho/arctic-sea-ice-extent-visualization-2).
+<br>Project link: [[Data Visualization for arctic-sea-ice-extent-2]](https://github.com/YongBaekCho/arctic-sea-ice-extent-visualization-2).
 
 * Analyzed the Arctic-sea-ice-extent data and used my own analysis to predict the date the ice will disappear altogether.
 
