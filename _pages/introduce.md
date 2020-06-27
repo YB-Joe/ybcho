@@ -20,7 +20,7 @@ Email: ycho56@asu.edu
 
 ## What do I do for fun?
 
-Soccer, Travel, Watching Netflix, Chess, video games, Baseball
+Soccer, Travel, Netflix & chill, Chess, video games, Baseball
 
 ## Interests
 
