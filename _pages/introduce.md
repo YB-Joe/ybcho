@@ -58,7 +58,8 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 <div style="text-align: left"><strong>Machine Learning</strong></div>
 
 ## WORK EXPEREIENCE
-           {: width="80%" height="80%"}
+![Screen Shot 2020-06-27 at 8 07 13 PM](https://user-images.githubusercontent.com/43649503/85920808-e17cdc00-b8b1-11ea-8348-a69529fe9232.png)
+
 
 <div style="text-align: left">SK Networks - Seoul, South Korea</div>
 <div style="text-align: left">Internship</div> 
