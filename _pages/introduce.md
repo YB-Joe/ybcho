@@ -16,7 +16,7 @@ I am a M.S. Student in Robotics and Autonomous System(Artificial Intelligence) a
 
 Email: ycho56@asu.edu 
 <br>Personal Email: ybcho1087@gmail.com 
-<br>Github:https://github.com/YongBaekCho 
+<br>[Github:](https://github.com/YongBaekCho )
 
 ## What do I do for fun?
 
