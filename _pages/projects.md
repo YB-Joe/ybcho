@@ -26,7 +26,8 @@ Project link: [[University management]](https://github.com/YongBaekCho/class-sch
 * Analyzed U of A class scheduling data and RCM data over 10 years.
 * Identified problems & suggested solutions in school's management to staff and program director who work at registarar office.
 
-* (The goal of RCM is to provide an incentives-based transparent budget model for the University of Arizona.)  
+* (The goal of RCM is to provide an incentives-based transparent budget model for the University of Arizona.)
+
 ### Decision Tree
 Project link: [[Decision Tree(Car Temperature)]](https://github.com/YongBaekCho/decisiontrees).
 
