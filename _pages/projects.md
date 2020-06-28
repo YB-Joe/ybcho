@@ -17,7 +17,7 @@ Project link[[Pacman AI with search altorithms]](https://github.com/YongBaekCho/
 * Implemented search algorithms, multi-agents to solve severalproblems in Pacman domain.
 * Used  Reinforcement  learning(Q-learning)  to  train  Pacman  on  large  complexgrids in the presence of adversaries.
 
-## Data Science and Machine Learning
+## Data Science and Machine Learning/Deep Learning
 
 ### University of Arizona Class Scheduling
 
@@ -52,3 +52,9 @@ Project link: [[Data Visualization for arctic-sea-ice-extent]](https://github.co
 
 Project link: [[Text-mining]](https://github.com/YongBaekCho/textmining).
 * Computed cosine similarity along with the bag-of-words approach to measure the similarity between paris of documents
+
+### Statistical Machine Learning
+
+Project link: https://github.com/YongBaekCho/StatisticalML
+
+* Designed Classification(Naive Bayes, Logistic Regression) model and implemented K-means Algorithms.(with reports)
