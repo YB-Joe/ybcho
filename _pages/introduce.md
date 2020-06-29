@@ -61,7 +61,7 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 
 ## WORK EXPEREIENCE
 
-![Screen Shot 2020-06-27 at 8 08 46 PM](https://user-images.githubusercontent.com/43649503/85920833-16892e80-b8b2-11ea-9d01-9ff43bba700e.png)
+![Screen Shot 2020-06-27 at 8 08 46 PM](https://user-images.githubusercontent.com/43649503/85920833-16892e80-b8b2-11ea-9d01-9ff43bba700e.png){: width="60%" height="60%"}
 
 
 <div style="text-align: left">SK Networks - Seoul, South Korea</div>
