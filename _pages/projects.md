@@ -55,6 +55,6 @@ Project link: [[Text-mining]](https://github.com/YongBaekCho/textmining).
 
 ### Statistical Machine Learning
 
-Project link: https://github.com/YongBaekCho/StatisticalML
+Project link: [[SML]](https://github.com/YongBaekCho/StatisticalML).
 
 * Designed Classification(Naive Bayes, Logistic Regression) model and implemented K-means Algorithms.(with reports)
