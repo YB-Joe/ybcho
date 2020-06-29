@@ -7,7 +7,7 @@ layout: single
 ---
 ## Before I start
 
-This is my little bit simple CV/Resume. If you want to see it with details, please contact me via email.
+This is my summary of CV/Resume. If you want to see it with more details & well-organized version, please contact me via email.
 You can receive it which written by Latex via email😃 
 
 ## YongBaek Cho (Joe)
