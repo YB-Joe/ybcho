@@ -54,8 +54,7 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 
 ![course](https://user-images.githubusercontent.com/43649503/84982475-c1db0a80-b171-11ea-831a-e87c896e2bbc.png)
 <div style="text-align: left"><strong>Deep Learning Specialization</strong></div>
-
-![Screen Shot 2020-06-29 at 9 34 59 PM](https://user-images.githubusercontent.com/43649503/86006091-71f12300-ba50-11ea-9b1c-7dc13bf2ffac.png)
+<img width="308" alt="certi" src="https://user-images.githubusercontent.com/43649503/86007280-20e22e80-ba52-11ea-8336-48cba3f33039.png">
 
 <div style="text-align: left"><strong>Machine Learning</strong></div>
 
