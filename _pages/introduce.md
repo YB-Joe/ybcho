@@ -48,7 +48,7 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 <div style="text-align: left">Minor: Business Administraion</div>
 <div style="text-align: left">Honors and Awards: Dean's List</div>
 
-<br>Courses: Principles and Practice of Data Science, Dealing with Data, Data Structures, Statistical Foundations of the Information, Foundation of Information and Inference, Web Programming, Geographic Information Systems for Natural and Social Sciences, Computing and the Arts(Data Visualization)
+<br>Courses: Principles and Practice of Data Science, Dealing with Big Data, Data Structures, Statistical Foundations of the Information and Inference, Information Secutiry, Web Programming, Geographic Information Systems for Natural and Social Sciences, Computing and the Arts(Data Visualization)
 
 ### Certification
 
