@@ -7,7 +7,7 @@ layout: single
 ---
 ## Before I start
 
-This is my simple version of CV/Resume. If you want to see my CV/Resume with details, please contact me via email.
+This is my little bit simple CV/Resume. If you want to see it with details, please contact me via email.
 You can receive it which written by Latex via email😃 
 
 ## YongBaek Cho (Joe)
@@ -26,7 +26,7 @@ Soccer, Travel, Netflix & chill, Chess, video games, Baseball
 
 Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW Challenges!
 
-My Research Interest is to design novel Deep Learning Algorithms that interact in various ways with Computer vision. 
+How to design novel Deep Learning Algorithms that interact in various ways with Computer vision. 
 
 ## My goal with AI
 
@@ -66,6 +66,11 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 <div style="text-align: left">SK Networks - Seoul, South Korea</div>
 <div style="text-align: left">Reasearch and Development Internship</div> 
 <div style="text-align: left">August 2019 - November 2019</div> 
+
+* Developed  predictive  model  to  forecast  system  based  on  vehicle’s  OBD(OnBoard Diagnostic) data.
+* Promoted the MINTIT vending machine(Image Recognition for Used Phones)with implementing GAN.
+* Researched existing ML system and optimized processing, resulting in a 10% decrease in time and roughly 2% increase in accuracy.
+* Actively collaborated with ML Engineers, Data Engineers and held weekly discussion session for colleagues who are not familiar with Data Science and ML.
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
