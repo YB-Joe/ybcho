@@ -7,8 +7,8 @@ layout: single
 ---
 ## Before I start
 
-<div>This is my summary of CV/Resume. If you want to see it with more details & well-organized version, please contact me via email.
-  You can receive it which written by <strong>Latex</strong> via email😃 </div>
+<div>This is my summary of CV/Resume. If you want to see it with more details & well-organized version, please contact me via email.</div>
+<div> My resume/CV is written by <strong>Latex</strong> 😃 </div>
 
 ## YongBaek Cho (Joe)
 
