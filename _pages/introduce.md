@@ -18,6 +18,10 @@ Email: ycho56@asu.edu
 <br>Personal Email: ybcho1087@gmail.com 
 <br>[Github](https://github.com/YongBaekCho)
 
+## I am _____ Person
+
+Active! Diligent! Careful! 
+
 ## What do I do for fun?
 
 Soccer, Travel, Netflix & chill, Chess, video games, Baseball
@@ -27,10 +31,12 @@ Soccer, Travel, Netflix & chill, Chess, video games, Baseball
 Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW Challenges!
 
 How to design novel Deep Learning Algorithms that interact in various ways with Computer vision. 
+AND
+How the intelligent agents learn and gain high-level of human understanding from images and video data and what representation is best for the target?
 
 ## My goal with AI
 
-MY goal is to enhance the symbiotic relationship between human and machine.I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
+MY goal is to enhance the symbiotic relationship between Human and Machine. I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
 
 ## Education
 
@@ -48,7 +54,7 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 <div style="text-align: left">Minor: Business Administraion</div>
 <div style="text-align: left">Honors and Awards: Dean's List</div>
 
-<br>Courses: Principles and Practice of Data Science, Dealing with Big Data, Data Structures, Statistical Foundations of the Information and Inference, Information Secutiry, Web Programming, Geographic Information Systems for Natural and Social Sciences, Computing and the Arts(Data Visualization)
+<br>Courses: Principles and Practice of Data Science, Dealing with Big Data, Data Structures, Statistical Foundations of the Information and Inference, Information Secutiry, Computer Programming, Web Programming, Geographic Information Systems for Natural and Social Sciences, Data Visualization
 
 ### Certification
 
