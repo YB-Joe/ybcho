@@ -38,7 +38,7 @@ MY goal is to enhance the symbiotic relationship between human and machine.I am 
 
 <div style="text-align: left"><strong>Arizona State University</strong></div>
 <div style="text-align: left"> M.S. in Robotics and Autonomous System(<em>Artificial Intelligence</em>), Spring 2020 - Fall 2021(Expected)</div>
-<div style="text-align: left"><strong>GPA : 4.0 / 4.0</strong></div>
+<div style="text-align: left"><strong>Current GPA : 4.0 / 4.0</strong></div>
 
 <br>Courses: Artificial Intelligence, Statistical Machine Learning, Linear Algebra in Engineering
 
