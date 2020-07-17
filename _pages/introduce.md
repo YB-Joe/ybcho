@@ -73,10 +73,7 @@ MY goal is to enhance the symbiotic relationship between Human and Machine. I am
 <div style="text-align: left">Reasearch and Development Internship</div> 
 <div style="text-align: left">August 2019 - November 2019</div> 
 
-* Developed  predictive  model  to  forecast  system  based  on  vehicle’s  OBD(OnBoard Diagnostic) data.
-* Promoted the MINTIT vending machine(Image Recognition for Used Phones)with implementing GAN.
-* Researched existing ML system and optimized processing, resulting in a 10% decrease in time and roughly 2% increase in accuracy.
-* Actively collaborated with ML Engineers, Data Engineers and held weekly discussion session for colleagues who are not familiar with Data Science and ML.
+
 
 ## EXTRA-CURRICULAR ACTIVITIES
 
