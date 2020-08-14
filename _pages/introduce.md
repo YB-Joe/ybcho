@@ -70,7 +70,6 @@ MY goal is to enhance the symbiotic relationship between Human and Machine. I am
 
 
 <div style="text-align: left">SK Networks - Seoul, South Korea</div>
-<div style="text-align: left">Reasearch and Development Internship</div> 
 <div style="text-align: left">August 2019 - November 2019</div> 
 
 
