@@ -84,7 +84,7 @@ MY goal is to enhance the symbiotic relationship between Human and Machine. I am
 
 
 ## Technical Skills
-Programming Languages: Python, R, Java, R, MYSQL, SQLITE3, MongoDB, JavaScript
+Programming Languages: Python(pytorch, tensorflow,keras), R, Java, R, MYSQL, SQLITE3, MongoDB, JavaScript
 <br>ML & DL Frameworks: Keras, Tensorflow, PyTorch, Pandas, matplotlib, Tableau, scikit-learn, OpenCV, NumPy, SciPy.
 
 
